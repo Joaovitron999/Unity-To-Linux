@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="137849dd29134d888e07b31aaee5a337"/>
+            <Binding Key="2" Value="137849dd29134d888e07b31aaee5a337"/>
+        </MachineBindings>
+        <MachineID Value="i6yyjuk91CrRpVAA/UEHS2/kkhE="/>
+        <SerialHash Value="ed468fcc0eb99ecdd631d0f7386f59dc24c64798"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LUFBQUUtSFdWSC1VUldILVlNWjktWkg2Wg=="/>
+        <SerialMasked Value="F4-AAAE-HWVH-URWH-YMZ9-XXXX"/>
+        <StartDate Value="2019-11-16T00:00:00"/>
+        <UpdateDate Value="2022-11-18T12:11:41"/>
+        <InitialActivationDate Value="2019-11-16T17:49:25"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>/cpBpS7Pv/b9Qn5qf0rVGBV68bk=</DigestValue></Reference></SignedInfo><SignatureValue>Gf/tREj0vL2tQdzFMGUH7fUE2FlIVMcjl2wjrekOIRzW3OlVJQ+QmtShI0550Kefar3LxkIDzuE9&#13;
+q7/Ec4L25Q+R1C6yrHM3ch38BebZclxqJZkGo2nLQncl+YeHExpnJupvWPgdY83QebgV9C14uvv+&#13;
+oeKVp4/nXmut3le+lOElLHWcNftqO8uGzVgo8RtpEXGhIf+iSFJCqC7EHidMaAxtlPrRR6Fmn6Lp&#13;
+itIni6D9kM6ScTjxhFjI56X/jqkt8OkeaTuVsEtyvW/wNstHD40FxDK482oHKq8qN8v4/oTe35tJ&#13;
+vUL1A3F677QZFL7H1XzJ6zShLjuD/g1oEftfEA==</SignatureValue></Signature></root>
